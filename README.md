@@ -1,5 +1,5 @@
 # Power-bi-Project-Sales-Dashboard
-Objective:
+Objective:   ..
 Analyze and visualize sales data from the Global Superstore dataset (2012-2015) to identify key performance metrics, sales trends, and business insights.
 
 Key Activities:
